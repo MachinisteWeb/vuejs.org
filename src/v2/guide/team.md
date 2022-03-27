@@ -946,7 +946,7 @@ order: 803
       title: 'French Community Director',
       city: 'Annecy, France',
       languages: ['fr', 'en'],
-      github: 'Haeresis',
+      github: 'MachinisteWeb',
       twitter: 'ZetesEthique',
       work: {
         role: 'Cofounder',
@@ -954,7 +954,7 @@ order: 803
         orgUrl: 'https://www.orchard-id.com/'
       },
       reposPersonal: [
-        'vuejs-fr/*', 'Haeresis/node-atlas-hello-vue'
+        'vuejs-fr/*', 'MachinisteWeb/node-atlas-hello-vue'
       ],
       links: [
         'https://node-atlas.js.org/', 'https://blog.lesieur.name/'
